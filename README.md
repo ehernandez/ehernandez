@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+	<a href="https://twitter.com/ebhernandez"><img src="https://img.shields.io/twitter/follow/ebhernandez?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/emerson-hernandez/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
